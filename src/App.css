@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  margin:auto;
 }
 
 .App-logo {
@@ -35,4 +35,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.postForm, input, textarea{
+  width: 60%;
 }
